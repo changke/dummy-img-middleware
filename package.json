@@ -1,6 +1,6 @@
 {
   "name": "dummy-img-middleware",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Dummy image generator to be used as middleware for grunt-connect",
   "main": "index.js",
   "scripts": {
