@@ -1,0 +1,30 @@
+{
+  "name": "dummy-img-middleware",
+  "version": "0.0.1",
+  "description": "Dummy image generator to be used as middleware for grunt-connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changke/dummy-img-middleware.git"
+  },
+  "keywords": [
+    "grunt",
+    "connect",
+    "dummy",
+    "image",
+    "middleware"
+  ],
+  "author": "@changke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/changke/dummy-img-middleware/issues"
+  },
+  "homepage": "https://github.com/changke/dummy-img-middleware#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2"
+  }
+}
