@@ -25,3 +25,6 @@ Dummy image generator to be used as middleware for grunt-connect.
   ```html
   <img src="/dummy-img/640/400" />
   ```
+
+## Credit
+Code for random SVG borrowed from http://www.mixed-up.com/markb/Code/svg/randomsvg.html
